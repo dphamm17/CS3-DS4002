@@ -1,5 +1,5 @@
 # **Fertility Rate Analysis Case Study**
-### A DS 4002 Case Study by [Your Name]
+### A DS 4002 Case Study by Dana Pham
 
 ## Hook and Rubric Documents
 The hook document outlining the case study is the file labeled "Hook Document.pdf. The rubric "CS2_Rubric_FertilityRates.pdf" outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continuously throughout your completion of the case study to guarantee success on the assignment.
