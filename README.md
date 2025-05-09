@@ -2,7 +2,7 @@
 ### A DS 4002 Case Study by Dana Pham
 
 ## Hook and Rubric Documents
-The hook document outlining the case study is the file labeled "Hook Document.pdf. The rubric "CS2_Rubric_FertilityRates.pdf" outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continuously throughout your completion of the case study to guarantee success on the assignment.
+The hook document outlining the case study is the file labeled "Hook Document.pdf. The rubric "CS2-Rubric.pdf" outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continuously throughout your completion of the case study to guarantee success on the assignment.
 
 ## Data
 The data for this case study includes fertility rates and social/economic factors for 15 countries. You can find the dataset in the **DATA/** folder of this repository. The five factors analyzed include:
