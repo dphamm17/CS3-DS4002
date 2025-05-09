@@ -1,1 +1,1 @@
-# Fertilitu Rates Case Study
+# Fertility Rates Case Study
