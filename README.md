@@ -18,5 +18,5 @@ Additionally, you may access global fertility data and other socio-economic indi
 This case study follows a regression analysis approach to examine how the selected factors influence fertility rates. The analysis includes data cleaning, exploratory data analysis, regression modeling, and predictions. Visualizations are created to display trends and relationships between variables.
 
 ## Reference Materials
-Bloom, D. E., Kuhn, M., & Prettner, K. (2024). Confronting low fertility rates and population decline. CEPR. Retrieved from CEPR VOXEU.
-Nargund, G. (2009). Declining birth rates in developed countries: A radical policy re-think is required. Facts, Views & Vision in ObGyn, 1(3), 191-193. Retrieved from PMC.
+- Bloom, D. E., Kuhn, M., & Prettner, K. (2024). Confronting low fertility rates and population decline. CEPR. Retrieved from CEPR VOXEU.
+- Nargund, G. (2009). Declining birth rates in developed countries: A radical policy re-think is required. Facts, Views & Vision in ObGyn, 1(3), 191-193. Retrieved from PMC.
